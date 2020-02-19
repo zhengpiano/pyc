@@ -1,0 +1,2 @@
+# pyc
+personal python code
